@@ -1,14 +1,12 @@
 {
   "name": "webpack_starter",
   "version": "1.0.0",
-  "description": "Webpack Dev",
+  "description": "",
   "main": "webpack.config.js",
   "scripts": {
-    "watch": "webpack --watch",
-    "server": "live-server dist/",
-    "dev": "start npm run watch && start npm run server"
+    "watch": "webpack --watch"
   },
-  "author": "@Dev1-2017-2018",
+  "author": "@Yekonori",
   "license": "ISC",
   "devDependencies": {
     "babel-core": "^6.17.0",

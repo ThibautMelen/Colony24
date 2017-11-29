@@ -42,7 +42,7 @@
 /************************************************************************/
 /******/ ([
 /* 0 */
-/***/ function(module, exports, __webpack_require__) {
+/***/ (function(module, exports, __webpack_require__) {
 
 	'use strict';
 
@@ -56,9 +56,9 @@
 	(0, _logger2.default)(); // yes
 	console.log('app loaded');
 
-/***/ },
+/***/ }),
 /* 1 */
-/***/ function(module, exports) {
+/***/ (function(module, exports) {
 
 	'use strict';
 
@@ -70,5 +70,5 @@
 		console.log('logger.js is RUNNING!!');
 	};
 
-/***/ }
+/***/ })
 /******/ ]);
